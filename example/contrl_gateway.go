@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/bingbaba/tool/color"
 	"github.com/bingbaba/util/logs"
-	"github.com/xuebing1110/migateway"
+	"github.com/xyalan/migateway"
 	"time"
 )
 
